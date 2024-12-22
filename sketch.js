@@ -12,7 +12,7 @@ let classFont;
 let mapoFont;
 let alienFont;
 
-let stage = 17; // 전체 스테이지
+let stage = 0; // 전체 스테이지
 let startFrame = 0;
 let ufo;
 let choice_00 = true;
