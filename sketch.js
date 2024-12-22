@@ -130,7 +130,7 @@ function preload() {
   }
 
   for (let letter of alphabet) {
-    alienCode[letter] = loadImage('alienCodes/'+letter+'.png')
+    alienCode[letter] = loadImage('alienCodes/'+letter+'.PNG')
   }
 
   for (let i=0; i<12; i++){
